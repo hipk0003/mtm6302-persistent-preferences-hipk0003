@@ -10,3 +10,6 @@ themeButtons.forEach(color =>{
         document.querySelector(':root').style.setProperty('--main-color', dataColor);
     });
 });
+
+// list
+
